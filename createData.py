@@ -50,6 +50,7 @@ alias['Golden State Warriors'] = 'GSW'
 alias['Washington Wizards'] = 'WAS'                   # no longer exists
 alias['Washington Bullets'] = 'WAS'
 alias['Sacramento Kings'] = 'SAC'
+alias['Kansas City Kings'] = 'SAC'                    # no longer exists
 alias['Minnesota Timberwolves'] = 'MIN'
 alias['New Jersey Nets'] = 'BRK'                      # no longer exists
 alias['Brooklyn Nets'] = 'BRK'
@@ -281,7 +282,7 @@ for l in reader(infile):
       dictUTA[name] = float(per)
       dictUTA = collections.OrderedDict(sorted(dictUTA.items(), key=lambda x:x[1]))
 
-  if team == "SAC":
+  if team == "SAC" or team == "KCK":
     if len(dictSAC) < 3:                # Find the top 3 players in PER
       dictSAC[name] = float(per)
       dictSAC = collections.OrderedDict(sorted(dictSAC.items(), key=lambda x:x[1]))

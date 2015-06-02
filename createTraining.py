@@ -5,7 +5,7 @@ fout=open("training.csv","w")
 
 header = 0
 # Range is not inclusive of the latter year
-for year in range(1990,2011):
+for year in range(1980,2011):
   f = open("trainingData/trainingdata_"+str(year)+".csv")
 
   if header == 0:
