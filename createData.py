@@ -145,7 +145,7 @@ for l in reader(infile):
       dictMIA[name] = float(per)
       dictMIA = collections.OrderedDict(sorted(dictMIA.items(), key=lambda x:x[1]))
 
-  if team == "CHA":
+  if team == "CHA" or team == "CHH":
     if len(dictCHA) < 3:                # Find the top 3 players in PER
       dictCHA[name] = float(per)
       dictCHA = collections.OrderedDict(sorted(dictCHA.items(), key=lambda x:x[1]))
@@ -226,7 +226,7 @@ for l in reader(infile):
       dictPHI[name] = float(per)
       dictPHI = collections.OrderedDict(sorted(dictPHI.items(), key=lambda x:x[1]))
 
-  if team == "WAS":
+  if team == "WAS" or team == "WSB":
     if len(dictWAS) < 3:                # Find the top 3 players in PER
       dictWAS[name] = float(per)
       dictWAS = collections.OrderedDict(sorted(dictWAS.items(), key=lambda x:x[1]))
