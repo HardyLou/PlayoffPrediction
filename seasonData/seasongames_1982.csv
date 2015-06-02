@@ -1,0 +1,944 @@
+team2Score,team1Score,team1,team2
+124,100,Washington Bullets,Boston Celtics
+134,121,Golden State Warriors,Denver Nuggets
+118,113,Milwaukee Bucks,Detroit Pistons
+96,94,Chicago Bulls,Indiana Pacers
+102,113,San Antonio Spurs,Kansas City Kings
+112,113,Houston Rockets,Los Angeles Lakers
+99,103,New York Knicks,New Jersey Nets
+128,104,Cleveland Cavaliers,Philadelphia 76ers
+103,95,Phoenix Suns,Portland Trail Blazers
+105,89,Dallas Mavericks,Utah Jazz
+106,108,Philadelphia 76ers,Atlanta Hawks
+106,119,Detroit Pistons,Chicago Bulls
+95,89,Kansas City Kings,Dallas Mavericks
+106,91,Utah Jazz,Golden State Warriors
+119,103,Boston Celtics,Milwaukee Bucks
+99,106,Indiana Pacers,New York Knicks
+145,120,Denver Nuggets,San Antonio Spurs
+125,110,Houston Rockets,San Diego Clippers
+94,84,Phoenix Suns,Seattle SuperSonics
+104,94,Seattle SuperSonics,Portland Trail Blazers
+104,96,Atlanta Hawks,Chicago Bulls
+110,125,Cleveland Cavaliers,Dallas Mavericks
+101,98,New York Knicks,Houston Rockets
+111,88,San Antonio Spurs,Phoenix Suns
+102,100,Los Angeles Lakers,Portland Trail Blazers
+99,112,Philadelphia 76ers,Washington Bullets
+115,93,Chicago Bulls,Boston Celtics
+112,100,Houston Rockets,Denver Nuggets
+108,109,Portland Trail Blazers,Golden State Warriors
+129,128,San Diego Clippers,Kansas City Kings
+86,95,Atlanta Hawks,New Jersey Nets
+107,99,Indiana Pacers,Philadelphia 76ers
+128,102,Cleveland Cavaliers,San Antonio Spurs
+103,106,Los Angeles Lakers,Seattle SuperSonics
+109,103,New Jersey Nets,Detroit Pistons
+98,90,Washington Bullets,Milwaukee Bucks
+121,93,Dallas Mavericks,Phoenix Suns
+110,101,Golden State Warriors,Utah Jazz
+111,94,Indiana Pacers,Boston Celtics
+114,93,San Diego Clippers,Chicago Bulls
+95,104,New York Knicks,Dallas Mavericks
+90,86,Houston Rockets,Kansas City Kings
+99,101,Phoenix Suns,Los Angeles Lakers
+99,106,Atlanta Hawks,Philadelphia 76ers
+119,109,Utah Jazz,Portland Trail Blazers
+105,109,Denver Nuggets,Seattle SuperSonics
+86,82,Detroit Pistons,Washington Bullets
+118,105,New Jersey Nets,Chicago Bulls
+88,129,Boston Celtics,Detroit Pistons
+152,107,Denver Nuggets,Golden State Warriors
+92,96,Cleveland Cavaliers,Houston Rockets
+105,102,San Diego Clippers,Milwaukee Bucks
+103,96,New York Knicks,San Antonio Spurs
+95,87,Phoenix Suns,Utah Jazz
+121,111,Dallas Mavericks,Los Angeles Lakers
+89,86,Indiana Pacers,New Jersey Nets
+120,116,Denver Nuggets,Portland Trail Blazers
+102,101,Chicago Bulls,Cleveland Cavaliers
+94,83,Milwaukee Bucks,Atlanta Hawks
+119,107,Kansas City Kings,Chicago Bulls
+106,109,Phoenix Suns,Denver Nuggets
+93,95,Philadelphia 76ers,Detroit Pistons
+113,123,Seattle SuperSonics,Golden State Warriors
+109,102,Cleveland Cavaliers,Indiana Pacers
+111,99,New Jersey Nets,New York Knicks
+117,95,Dallas Mavericks,Portland Trail Blazers
+128,102,Los Angeles Lakers,San Antonio Spurs
+97,106,Utah Jazz,San Diego Clippers
+84,90,Boston Celtics,Washington Bullets
+115,100,Kansas City Kings,Boston Celtics
+93,95,Los Angeles Lakers,Houston Rockets
+88,100,Milwaukee Bucks,New Jersey Nets
+117,90,Chicago Bulls,Philadelphia 76ers
+107,79,Dallas Mavericks,Seattle SuperSonics
+87,95,Washington Bullets,Atlanta Hawks
+130,99,Cleveland Cavaliers,Detroit Pistons
+95,93,Indiana Pacers,Phoenix Suns
+122,115,Portland Trail Blazers,San Diego Clippers
+111,97,New Jersey Nets,Boston Celtics
+100,102,Golden State Warriors,Houston Rockets
+119,115,Portland Trail Blazers,Los Angeles Lakers
+95,85,New York Knicks,Milwaukee Bucks
+105,85,Kansas City Kings,Philadelphia 76ers
+112,119,San Antonio Spurs,Seattle SuperSonics
+131,124,Denver Nuggets,Utah Jazz
+104,117,Detroit Pistons,Atlanta Hawks
+91,92,Boston Celtics,Cleveland Cavaliers
+112,118,Golden State Warriors,Dallas Mavericks
+109,105,Utah Jazz,Houston Rockets
+103,92,Kansas City Kings,New Jersey Nets
+102,109,Philadelphia 76ers,New York Knicks
+97,98,Los Angeles Lakers,Phoenix Suns
+114,123,Indiana Pacers,San Diego Clippers
+104,99,Chicago Bulls,Washington Bullets
+124,123,Indiana Pacers,Los Angeles Lakers
+98,96,Cleveland Cavaliers,Milwaukee Bucks
+105,110,San Antonio Spurs,Portland Trail Blazers
+95,98,Boston Celtics,Chicago Bulls
+105,112,San Antonio Spurs,Dallas Mavericks
+82,102,Houston Rockets,Indiana Pacers
+110,124,Kansas City Kings,New York Knicks
+95,99,Milwaukee Bucks,Washington Bullets
+102,97,Phoenix Suns,Atlanta Hawks
+104,106,Houston Rockets,Boston Celtics
+110,103,Detroit Pistons,Cleveland Cavaliers
+133,128,San Diego Clippers,Denver Nuggets
+121,107,New Jersey Nets,Golden State Warriors
+102,100,Milwaukee Bucks,Philadelphia 76ers
+111,93,Seattle SuperSonics,San Antonio Spurs
+110,113,Los Angeles Lakers,Utah Jazz
+122,97,Washington Bullets,Detroit Pistons
+102,99,Kansas City Kings,Indiana Pacers
+84,89,Atlanta Hawks,New York Knicks
+100,105,Golden State Warriors,San Diego Clippers
+112,89,Milwaukee Bucks,Boston Celtics
+103,105,Utah Jazz,Chicago Bulls
+94,99,Philadelphia 76ers,Cleveland Cavaliers
+89,90,Seattle SuperSonics,Dallas Mavericks
+136,116,San Antonio Spurs,Los Angeles Lakers
+106,86,New Jersey Nets,Portland Trail Blazers
+94,95,Houston Rockets,Washington Bullets
+107,100,Indiana Pacers,Atlanta Hawks
+117,105,Washington Bullets,Chicago Bulls
+88,110,Phoenix Suns,Dallas Mavericks
+128,121,Kansas City Kings,Denver Nuggets
+95,86,Utah Jazz,Detroit Pistons
+129,122,San Antonio Spurs,Golden State Warriors
+118,112,Milwaukee Bucks,New York Knicks
+135,106,Houston Rockets,Philadelphia 76ers
+117,119,Los Angeles Lakers,San Diego Clippers
+109,92,New Jersey Nets,Seattle SuperSonics
+94,92,Cleveland Cavaliers,Atlanta Hawks
+110,125,Los Angeles Lakers,Dallas Mavericks
+84,102,New Jersey Nets,Houston Rockets
+127,112,New York Knicks,Indiana Pacers
+103,95,Detroit Pistons,Milwaukee Bucks
+102,109,Chicago Bulls,San Diego Clippers
+107,88,Golden State Warriors,Washington Bullets
+122,101,Golden State Warriors,Boston Celtics
+102,108,Indiana Pacers,Cleveland Cavaliers
+139,133,Dallas Mavericks,Denver Nuggets
+122,129,Detroit Pistons,Kansas City Kings
+128,114,Houston Rockets,Phoenix Suns
+96,117,Los Angeles Lakers,San Antonio Spurs
+110,103,Portland Trail Blazers,Seattle SuperSonics
+102,100,San Diego Clippers,Utah Jazz
+113,100,Washington Bullets,Boston Celtics
+95,116,New York Knicks,Cleveland Cavaliers
+112,114,Atlanta Hawks,Detroit Pistons
+112,124,Philadelphia 76ers,Indiana Pacers
+115,123,Denver Nuggets,Kansas City Kings
+129,138,San Diego Clippers,Los Angeles Lakers
+96,113,Golden State Warriors,Milwaukee Bucks
+111,107,Chicago Bulls,Phoenix Suns
+114,86,New Jersey Nets,San Antonio Spurs
+117,110,Houston Rockets,Seattle SuperSonics
+93,103,Portland Trail Blazers,Utah Jazz
+90,98,Boston Celtics,Atlanta Hawks
+111,107,New Jersey Nets,Dallas Mavericks
+131,124,Utah Jazz,Denver Nuggets
+101,90,Cleveland Cavaliers,New York Knicks
+116,103,Detroit Pistons,Philadelphia 76ers
+122,120,Seattle SuperSonics,San Diego Clippers
+90,92,Indiana Pacers,Washington Bullets
+104,100,Golden State Warriors,Kansas City Kings
+122,104,Houston Rockets,Los Angeles Lakers
+105,89,San Antonio Spurs,Milwaukee Bucks
+114,109,Chicago Bulls,Portland Trail Blazers
+98,107,Philadelphia 76ers,Atlanta Hawks
+110,126,Milwaukee Bucks,Cleveland Cavaliers
+113,121,Portland Trail Blazers,Denver Nuggets
+104,106,Kansas City Kings,Houston Rockets
+90,87,Boston Celtics,Indiana Pacers
+117,86,Utah Jazz,Los Angeles Lakers
+112,100,Detroit Pistons,New York Knicks
+117,94,San Diego Clippers,Phoenix Suns
+103,87,Chicago Bulls,Seattle SuperSonics
+99,110,San Antonio Spurs,Washington Bullets
+115,114,Detroit Pistons,Boston Celtics
+120,119,Chicago Bulls,Golden State Warriors
+107,112,Portland Trail Blazers,Kansas City Kings
+125,106,Cleveland Cavaliers,New Jersey Nets
+101,106,San Antonio Spurs,Philadelphia 76ers
+104,96,Los Angeles Lakers,Seattle SuperSonics
+114,103,Dallas Mavericks,Utah Jazz
+88,114,Washington Bullets,New York Knicks
+137,109,Denver Nuggets,Phoenix Suns
+113,111,Dallas Mavericks,San Diego Clippers
+111,103,Philadelphia 76ers,Boston Celtics
+117,126,Los Angeles Lakers,Denver Nuggets
+105,95,Detroit Pistons,Indiana Pacers
+112,109,Seattle SuperSonics,Kansas City Kings
+97,80,Atlanta Hawks,Milwaukee Bucks
+127,111,Portland Trail Blazers,San Antonio Spurs
+101,105,Chicago Bulls,Utah Jazz
+85,92,Seattle SuperSonics,Atlanta Hawks
+109,105,Denver Nuggets,Dallas Mavericks
+108,111,Milwaukee Bucks,Detroit Pistons
+138,113,San Diego Clippers,Golden State Warriors
+110,98,Portland Trail Blazers,Houston Rockets
+105,114,Philadelphia 76ers,New Jersey Nets
+103,83,Boston Celtics,New York Knicks
+101,99,Utah Jazz,Phoenix Suns
+94,87,Cleveland Cavaliers,Washington Bullets
+119,106,Kansas City Kings,Los Angeles Lakers
+88,98,New Jersey Nets,Atlanta Hawks
+118,116,Indiana Pacers,Chicago Bulls
+128,103,Utah Jazz,Dallas Mavericks
+96,107,Seattle SuperSonics,Houston Rockets
+102,98,Washington Bullets,Los Angeles Lakers
+135,122,Denver Nuggets,New York Knicks
+108,122,Golden State Warriors,Portland Trail Blazers
+121,110,Phoenix Suns,San Diego Clippers
+109,100,New Jersey Nets,Boston Celtics
+112,108,Atlanta Hawks,Cleveland Cavaliers
+134,127,Phoenix Suns,Golden State Warriors
+113,77,Utah Jazz,Indiana Pacers
+113,109,Dallas Mavericks,Kansas City Kings
+89,83,Houston Rockets,Milwaukee Bucks
+137,109,Denver Nuggets,Philadelphia 76ers
+110,99,Seattle SuperSonics,San Antonio Spurs
+101,106,New York Knicks,Detroit Pistons
+117,110,Portland Trail Blazers,Phoenix Suns
+94,86,Atlanta Hawks,Boston Celtics
+118,105,Houston Rockets,Chicago Bulls
+99,101,San Antonio Spurs,Dallas Mavericks
+124,116,Portland Trail Blazers,Los Angeles Lakers
+103,100,Indiana Pacers,Milwaukee Bucks
+131,123,Denver Nuggets,New Jersey Nets
+131,113,Cleveland Cavaliers,Philadelphia 76ers
+102,106,Washington Bullets,San Diego Clippers
+122,102,Kansas City Kings,Utah Jazz
+108,97,Boston Celtics,Atlanta Hawks
+114,117,Philadelphia 76ers,Chicago Bulls
+115,120,Denver Nuggets,Cleveland Cavaliers
+98,96,Kansas City Kings,Golden State Warriors
+101,97,Dallas Mavericks,Houston Rockets
+101,88,New Jersey Nets,Indiana Pacers
+86,104,Milwaukee Bucks,New York Knicks
+98,105,Washington Bullets,Phoenix Suns
+111,97,Utah Jazz,San Antonio Spurs
+117,111,Detroit Pistons,Seattle SuperSonics
+122,118,Golden State Warriors,Los Angeles Lakers
+127,108,Philadelphia 76ers,Milwaukee Bucks
+105,99,Detroit Pistons,Portland Trail Blazers
+98,74,San Diego Clippers,Seattle SuperSonics
+111,98,New York Knicks,Atlanta Hawks
+98,89,Cleveland Cavaliers,Chicago Bulls
+120,126,Seattle SuperSonics,Denver Nuggets
+104,108,Detroit Pistons,Golden State Warriors
+99,95,Phoenix Suns,Houston Rockets
+96,104,Milwaukee Bucks,Indiana Pacers
+118,101,San Diego Clippers,Portland Trail Blazers
+108,103,San Antonio Spurs,Utah Jazz
+102,107,Dallas Mavericks,Washington Bullets
+109,92,Dallas Mavericks,Boston Celtics
+102,106,Washington Bullets,Cleveland Cavaliers
+97,81,Phoenix Suns,Kansas City Kings
+97,98,Chicago Bulls,New Jersey Nets
+115,117,New York Knicks,Philadelphia 76ers
+138,103,Atlanta Hawks,Denver Nuggets
+96,100,Indiana Pacers,Detroit Pistons
+120,115,Los Angeles Lakers,Golden State Warriors
+92,106,Seattle SuperSonics,San Diego Clippers
+93,112,Houston Rockets,Dallas Mavericks
+109,73,Cleveland Cavaliers,Indiana Pacers
+100,95,Utah Jazz,Kansas City Kings
+88,100,New Jersey Nets,Milwaukee Bucks
+121,106,Chicago Bulls,New York Knicks
+104,108,Phoenix Suns,San Antonio Spurs
+98,99,Boston Celtics,Washington Bullets
+107,119,New Jersey Nets,Cleveland Cavaliers
+102,95,Portland Trail Blazers,Dallas Mavericks
+138,125,San Antonio Spurs,Denver Nuggets
+132,104,New York Knicks,Detroit Pistons
+126,109,Atlanta Hawks,Golden State Warriors
+102,95,Chicago Bulls,Houston Rockets
+123,118,Boston Celtics,Philadelphia 76ers
+95,87,Kansas City Kings,Phoenix Suns
+100,106,Los Angeles Lakers,San Diego Clippers
+103,115,Seattle SuperSonics,Utah Jazz
+112,94,Atlanta Hawks,Los Angeles Lakers
+120,116,Cleveland Cavaliers,Boston Celtics
+92,90,Washington Bullets,Chicago Bulls
+98,106,Detroit Pistons,Dallas Mavericks
+109,121,Denver Nuggets,Houston Rockets
+92,88,Atlanta Hawks,Indiana Pacers
+101,106,Kansas City Kings,Milwaukee Bucks
+105,112,Philadelphia 76ers,New York Knicks
+110,124,Los Angeles Lakers,Portland Trail Blazers
+114,95,Kansas City Kings,Cleveland Cavaliers
+119,124,Detroit Pistons,Denver Nuggets
+115,99,New York Knicks,New Jersey Nets
+118,103,Golden State Warriors,Phoenix Suns
+109,114,San Antonio Spurs,San Diego Clippers
+113,99,Utah Jazz,Seattle SuperSonics
+95,96,New Jersey Nets,New York Knicks
+101,104,Los Angeles Lakers,Phoenix Suns
+99,94,Seattle SuperSonics,Portland Trail Blazers
+115,98,Indiana Pacers,Washington Bullets
+102,109,Milwaukee Bucks,Cleveland Cavaliers
+117,124,Denver Nuggets,Dallas Mavericks
+96,94,Chicago Bulls,Detroit Pistons
+112,96,Phoenix Suns,Golden State Warriors
+106,112,New York Knicks,Indiana Pacers
+119,124,Boston Celtics,Kansas City Kings
+90,105,Washington Bullets,New Jersey Nets
+97,105,Atlanta Hawks,San Antonio Spurs
+116,128,Portland Trail Blazers,San Diego Clippers
+104,115,Houston Rockets,Utah Jazz
+139,117,San Diego Clippers,Los Angeles Lakers
+108,96,Chicago Bulls,Milwaukee Bucks
+99,96,Philadelphia 76ers,Phoenix Suns
+95,103,Indiana Pacers,New Jersey Nets
+104,100,Golden State Warriors,Seattle SuperSonics
+108,111,New York Knicks,Chicago Bulls
+104,92,Kansas City Kings,Dallas Mavericks
+128,123,Boston Celtics,Denver Nuggets
+135,142,Philadelphia 76ers,Golden State Warriors
+93,102,Atlanta Hawks,Houston Rockets
+96,107,Milwaukee Bucks,Indiana Pacers
+121,114,Utah Jazz,Los Angeles Lakers
+119,107,San Diego Clippers,San Antonio Spurs
+129,125,Detroit Pistons,Washington Bullets
+91,94,San Diego Clippers,Atlanta Hawks
+108,110,New York Knicks,Cleveland Cavaliers
+120,116,Denver Nuggets,Kansas City Kings
+107,103,Washington Bullets,Milwaukee Bucks
+130,119,Detroit Pistons,New Jersey Nets
+113,112,Portland Trail Blazers,Phoenix Suns
+109,104,Houston Rockets,San Antonio Spurs
+99,102,Philadelphia 76ers,Seattle SuperSonics
+110,121,Boston Celtics,Utah Jazz
+125,93,Kansas City Kings,Golden State Warriors
+105,120,Philadelphia 76ers,Portland Trail Blazers
+97,95,New Jersey Nets,Atlanta Hawks
+121,128,Milwaukee Bucks,Chicago Bulls
+103,106,Boston Celtics,Cleveland Cavaliers
+119,100,Dallas Mavericks,Golden State Warriors
+103,107,Washington Bullets,Indiana Pacers
+121,108,Detroit Pistons,New York Knicks
+120,97,Seattle SuperSonics,Phoenix Suns
+148,133,Denver Nuggets,San Antonio Spurs
+101,108,Houston Rockets,San Diego Clippers
+107,109,Philadelphia 76ers,Utah Jazz
+90,110,Seattle SuperSonics,Los Angeles Lakers
+122,128,Denver Nuggets,Milwaukee Bucks
+127,116,Kansas City Kings,Portland Trail Blazers
+113,103,Cleveland Cavaliers,Atlanta Hawks
+134,128,Denver Nuggets,Chicago Bulls
+124,101,Philadelphia 76ers,Detroit Pistons
+111,112,Houston Rockets,Golden State Warriors
+87,82,Phoenix Suns,Indiana Pacers
+102,112,New York Knicks,Milwaukee Bucks
+115,110,San Antonio Spurs,Portland Trail Blazers
+112,104,Kansas City Kings,San Diego Clippers
+108,114,New Jersey Nets,Washington Bullets
+102,116,Chicago Bulls,Boston Celtics
+136,114,San Diego Clippers,Denver Nuggets
+95,109,Milwaukee Bucks,New Jersey Nets
+126,112,Washington Bullets,Philadelphia 76ers
+107,100,Dallas Mavericks,Seattle SuperSonics
+130,115,San Antonio Spurs,Utah Jazz
+100,109,Washington Bullets,Cleveland Cavaliers
+94,110,Phoenix Suns,Detroit Pistons
+112,123,San Antonio Spurs,Golden State Warriors
+107,103,New York Knicks,Kansas City Kings
+112,113,Dallas Mavericks,San Diego Clippers
+116,107,Houston Rockets,Seattle SuperSonics
+96,90,Philadelphia 76ers,Boston Celtics
+119,113,Los Angeles Lakers,Chicago Bulls
+88,90,Atlanta Hawks,Milwaukee Bucks
+110,100,Cleveland Cavaliers,New Jersey Nets
+121,124,Denver Nuggets,Portland Trail Blazers
+108,102,Indiana Pacers,Utah Jazz
+102,89,New York Knicks,Atlanta Hawks
+105,101,Phoenix Suns,Dallas Mavericks
+110,125,Seattle SuperSonics,Denver Nuggets
+127,130,Los Angeles Lakers,Detroit Pistons
+115,106,Indiana Pacers,Golden State Warriors
+113,120,New Jersey Nets,Philadelphia 76ers
+113,100,Kansas City Kings,San Antonio Spurs
+125,118,Utah Jazz,San Diego Clippers
+134,124,Detroit Pistons,Boston Celtics
+118,107,Los Angeles Lakers,Milwaukee Bucks
+126,129,Washington Bullets,New York Knicks
+109,111,Houston Rockets,Portland Trail Blazers
+94,112,Boston Celtics,New Jersey Nets
+111,122,Detroit Pistons,Chicago Bulls
+100,114,Los Angeles Lakers,Cleveland Cavaliers
+139,126,Kansas City Kings,Denver Nuggets
+107,106,San Diego Clippers,Houston Rockets
+133,121,Golden State Warriors,Phoenix Suns
+105,93,Indiana Pacers,Portland Trail Blazers
+127,109,Dallas Mavericks,San Antonio Spurs
+121,129,New York Knicks,Utah Jazz
+92,95,Philadelphia 76ers,Washington Bullets
+116,95,Atlanta Hawks,Boston Celtics
+102,105,San Diego Clippers,Dallas Mavericks
+143,128,Denver Nuggets,Golden State Warriors
+117,104,Cleveland Cavaliers,Kansas City Kings
+107,111,Milwaukee Bucks,Philadelphia 76ers
+106,86,Indiana Pacers,Seattle SuperSonics
+114,121,Washington Bullets,Detroit Pistons
+100,111,Portland Trail Blazers,Houston Rockets
+130,104,Chicago Bulls,New Jersey Nets
+90,89,New York Knicks,Phoenix Suns
+128,113,Dallas Mavericks,Denver Nuggets
+104,102,New York Knicks,Golden State Warriors
+92,97,Los Angeles Lakers,Indiana Pacers
+114,104,New Jersey Nets,Kansas City Kings
+122,118,Boston Celtics,Milwaukee Bucks
+90,96,Atlanta Hawks,Philadelphia 76ers
+128,90,Houston Rockets,San Antonio Spurs
+117,108,Cleveland Cavaliers,San Diego Clippers
+115,103,Utah Jazz,Seattle SuperSonics
+93,90,Chicago Bulls,Washington Bullets
+103,110,Portland Trail Blazers,Dallas Mavericks
+120,128,Boston Celtics,Detroit Pistons
+116,99,San Antonio Spurs,Houston Rockets
+106,87,San Diego Clippers,Phoenix Suns
+120,125,Cleveland Cavaliers,Utah Jazz
+116,103,Chicago Bulls,Indiana Pacers
+97,109,Los Angeles Lakers,Kansas City Kings
+103,108,Detroit Pistons,Milwaukee Bucks
+105,97,Philadelphia 76ers,New Jersey Nets
+131,138,Denver Nuggets,San Diego Clippers
+122,97,Golden State Warriors,Seattle SuperSonics
+96,78,Atlanta Hawks,Washington Bullets
+112,101,Portland Trail Blazers,Atlanta Hawks
+110,100,Indiana Pacers,Chicago Bulls
+97,99,Seattle SuperSonics,Cleveland Cavaliers
+140,139,Los Angeles Lakers,Denver Nuggets
+120,112,Kansas City Kings,Houston Rockets
+107,111,Boston Celtics,New York Knicks
+108,96,San Antonio Spurs,Phoenix Suns
+123,117,Detroit Pistons,Utah Jazz
+112,103,Indiana Pacers,Boston Celtics
+109,104,Milwaukee Bucks,Dallas Mavericks
+99,108,San Diego Clippers,Golden State Warriors
+132,113,New Jersey Nets,Los Angeles Lakers
+115,110,Portland Trail Blazers,Philadelphia 76ers
+106,95,Seattle SuperSonics,Washington Bullets
+94,110,Dallas Mavericks,Kansas City Kings
+104,101,Atlanta Hawks,New York Knicks
+123,104,Utah Jazz,San Antonio Spurs
+110,120,Detroit Pistons,San Diego Clippers
+107,115,San Antonio Spurs,Atlanta Hawks
+106,118,Seattle SuperSonics,Boston Celtics
+108,93,Cleveland Cavaliers,Chicago Bulls
+125,131,Milwaukee Bucks,Denver Nuggets
+128,110,Utah Jazz,Houston Rockets
+105,112,Philadelphia 76ers,Indiana Pacers
+123,111,Detroit Pistons,Los Angeles Lakers
+97,99,New Jersey Nets,Phoenix Suns
+110,97,Portland Trail Blazers,Washington Bullets
+99,109,Atlanta Hawks,Cleveland Cavaliers
+122,110,Utah Jazz,Dallas Mavericks
+119,113,Milwaukee Bucks,Golden State Warriors
+109,111,Denver Nuggets,Houston Rockets
+106,109,Washington Bullets,Kansas City Kings
+139,140,Chicago Bulls,New York Knicks
+100,87,Seattle SuperSonics,Philadelphia 76ers
+113,90,Detroit Pistons,Phoenix Suns
+98,107,Indiana Pacers,San Antonio Spurs
+109,113,New Jersey Nets,San Diego Clippers
+119,123,Portland Trail Blazers,Boston Celtics
+99,113,Seattle SuperSonics,New York Knicks
+88,90,Dallas Mavericks,Atlanta Hawks
+104,94,Indiana Pacers,Houston Rockets
+94,96,Milwaukee Bucks,Los Angeles Lakers
+103,95,Philadelphia 76ers,San Antonio Spurs
+129,138,New Jersey Nets,Utah Jazz
+94,84,Chicago Bulls,Washington Bullets
+131,99,New York Knicks,Boston Celtics
+110,106,Golden State Warriors,Cleveland Cavaliers
+86,99,Philadelphia 76ers,Dallas Mavericks
+130,116,New Jersey Nets,Denver Nuggets
+108,107,Atlanta Hawks,Detroit Pistons
+103,110,Seattle SuperSonics,Kansas City Kings
+99,92,Phoenix Suns,San Diego Clippers
+110,111,Golden State Warriors,Chicago Bulls
+104,116,Boston Celtics,Cleveland Cavaliers
+109,101,Philadelphia 76ers,Houston Rockets
+97,87,Phoenix Suns,Los Angeles Lakers
+96,93,San Diego Clippers,Portland Trail Blazers
+126,115,Kansas City Kings,San Antonio Spurs
+101,119,Milwaukee Bucks,Utah Jazz
+98,102,New York Knicks,Washington Bullets
+105,106,Detroit Pistons,Atlanta Hawks
+112,116,New Jersey Nets,Chicago Bulls
+128,117,New York Knicks,Denver Nuggets
+119,117,Los Angeles Lakers,Golden State Warriors
+122,106,San Diego Clippers,Houston Rockets
+105,109,Boston Celtics,Indiana Pacers
+102,97,Kansas City Kings,Portland Trail Blazers
+103,98,Dallas Mavericks,San Antonio Spurs
+99,100,Cleveland Cavaliers,Washington Bullets
+108,104,Indiana Pacers,Cleveland Cavaliers
+106,113,San Diego Clippers,Dallas Mavericks
+94,98,New York Knicks,Los Angeles Lakers
+113,98,Chicago Bulls,Milwaukee Bucks
+112,103,Atlanta Hawks,New Jersey Nets
+122,96,Washington Bullets,Philadelphia 76ers
+88,90,Golden State Warriors,Phoenix Suns
+97,87,Kansas City Kings,Seattle SuperSonics
+122,118,Portland Trail Blazers,Utah Jazz
+131,114,Denver Nuggets,Indiana Pacers
+118,112,Phoenix Suns,San Antonio Spurs
+145,144,Denver Nuggets,Boston Celtics
+103,110,Detroit Pistons,Chicago Bulls
+99,108,Seattle SuperSonics,Golden State Warriors
+106,104,Phoenix Suns,Houston Rockets
+109,102,San Antonio Spurs,Kansas City Kings
+117,92,Dallas Mavericks,Milwaukee Bucks
+116,112,New Jersey Nets,Philadelphia 76ers
+121,100,Utah Jazz,Portland Trail Blazers
+85,90,New York Knicks,San Diego Clippers
+87,90,Los Angeles Lakers,Washington Bullets
+87,88,Cleveland Cavaliers,Atlanta Hawks
+120,125,New Jersey Nets,Detroit Pistons
+89,95,Dallas Mavericks,Indiana Pacers
+129,103,Utah Jazz,Seattle SuperSonics
+113,119,Los Angeles Lakers,Boston Celtics
+94,110,New Jersey Nets,Cleveland Cavaliers
+116,111,San Antonio Spurs,Golden State Warriors
+110,126,Houston Rockets,Kansas City Kings
+107,92,Phoenix Suns,Milwaukee Bucks
+123,107,Chicago Bulls,Philadelphia 76ers
+100,98,New York Knicks,Portland Trail Blazers
+99,97,San Diego Clippers,Seattle SuperSonics
+115,124,Denver Nuggets,Washington Bullets
+117,130,Los Angeles Lakers,Atlanta Hawks
+128,123,Chicago Bulls,Detroit Pistons
+101,108,Milwaukee Bucks,Indiana Pacers
+110,112,Washington Bullets,San Antonio Spurs
+121,129,Houston Rockets,San Diego Clippers
+114,105,New York Knicks,Seattle SuperSonics
+123,107,Golden State Warriors,Utah Jazz
+91,73,Atlanta Hawks,Chicago Bulls
+91,105,Portland Trail Blazers,Cleveland Cavaliers
+102,119,Washington Bullets,Dallas Mavericks
+148,151,Utah Jazz,Denver Nuggets
+125,102,Los Angeles Lakers,Kansas City Kings
+115,108,Detroit Pistons,New Jersey Nets
+102,96,Indiana Pacers,Philadelphia 76ers
+112,110,Boston Celtics,Phoenix Suns
+123,113,Cleveland Cavaliers,Detroit Pistons
+117,100,Seattle SuperSonics,Houston Rockets
+116,105,Portland Trail Blazers,Milwaukee Bucks
+120,117,Golden State Warriors,New York Knicks
+103,100,Seattle SuperSonics,Dallas Mavericks
+114,129,Utah Jazz,Kansas City Kings
+94,100,San Antonio Spurs,Los Angeles Lakers
+109,98,Golden State Warriors,New Jersey Nets
+94,90,Atlanta Hawks,Phoenix Suns
+116,129,Boston Celtics,San Diego Clippers
+90,120,Milwaukee Bucks,Chicago Bulls
+109,110,Indiana Pacers,Cleveland Cavaliers
+146,129,San Diego Clippers,Denver Nuggets
+120,128,Portland Trail Blazers,Detroit Pistons
+111,104,Washington Bullets,Houston Rockets
+107,114,Philadelphia 76ers,New York Knicks
+120,115,Phoenix Suns,Utah Jazz
+97,125,Milwaukee Bucks,Cleveland Cavaliers
+107,91,Portland Trail Blazers,Indiana Pacers
+93,103,Golden State Warriors,Kansas City Kings
+103,108,Boston Celtics,Los Angeles Lakers
+109,111,Dallas Mavericks,New Jersey Nets
+117,105,New York Knicks,Philadelphia 76ers
+114,94,Seattle SuperSonics,San Antonio Spurs
+134,145,Denver Nuggets,Utah Jazz
+86,91,Phoenix Suns,Chicago Bulls
+119,106,Kansas City Kings,Denver Nuggets
+111,109,Houston Rockets,Detroit Pistons
+108,101,Seattle SuperSonics,Los Angeles Lakers
+110,112,Dallas Mavericks,New York Knicks
+97,100,Washington Bullets,Portland Trail Blazers
+91,102,Atlanta Hawks,San Diego Clippers
+102,110,Houston Rockets,Cleveland Cavaliers
+121,105,Boston Celtics,Golden State Warriors
+110,107,Phoenix Suns,Kansas City Kings
+104,93,Indiana Pacers,Milwaukee Bucks
+115,105,Chicago Bulls,New Jersey Nets
+114,109,Dallas Mavericks,Philadelphia 76ers
+126,112,Detroit Pistons,San Antonio Spurs
+109,117,Atlanta Hawks,Utah Jazz
+119,114,San Diego Clippers,Indiana Pacers
+105,87,Washington Bullets,Seattle SuperSonics
+121,126,San Antonio Spurs,Denver Nuggets
+113,97,San Diego Clippers,Kansas City Kings
+126,106,Golden State Warriors,Los Angeles Lakers
+106,88,Cleveland Cavaliers,Milwaukee Bucks
+96,103,Houston Rockets,New Jersey Nets
+90,104,Phoenix Suns,New York Knicks
+132,117,Utah Jazz,Philadelphia 76ers
+117,127,Boston Celtics,Portland Trail Blazers
+122,127,Atlanta Hawks,Seattle SuperSonics
+116,109,Dallas Mavericks,Cleveland Cavaliers
+115,100,Indiana Pacers,Detroit Pistons
+110,102,Washington Bullets,Golden State Warriors
+125,108,Utah Jazz,New Jersey Nets
+101,118,San Diego Clippers,San Antonio Spurs
+97,113,Dallas Mavericks,Chicago Bulls
+131,132,Los Angeles Lakers,Denver Nuggets
+118,107,New Jersey Nets,Indiana Pacers
+104,110,Milwaukee Bucks,Kansas City Kings
+122,106,Houston Rockets,New York Knicks
+109,102,Phoenix Suns,Philadelphia 76ers
+97,109,Atlanta Hawks,Portland Trail Blazers
+103,100,Boston Celtics,Seattle SuperSonics
+103,94,Kansas City Kings,Atlanta Hawks
+123,122,Portland Trail Blazers,Chicago Bulls
+105,95,Dallas Mavericks,Houston Rockets
+145,129,Denver Nuggets,Los Angeles Lakers
+113,110,Milwaukee Bucks,New York Knicks
+143,123,Golden State Warriors,San Antonio Spurs
+101,115,Philadelphia 76ers,San Diego Clippers
+106,113,Utah Jazz,Washington Bullets
+132,90,Utah Jazz,Boston Celtics
+110,120,Houston Rockets,Denver Nuggets
+118,87,New York Knicks,Indiana Pacers
+111,123,Portland Trail Blazers,Kansas City Kings
+106,113,Milwaukee Bucks,New Jersey Nets
+131,97,Cleveland Cavaliers,Phoenix Suns
+104,106,Golden State Warriors,Dallas Mavericks
+116,119,San Antonio Spurs,Detroit Pistons
+98,104,Los Angeles Lakers,Seattle SuperSonics
+110,116,Chicago Bulls,Atlanta Hawks
+122,110,San Diego Clippers,Boston Celtics
+111,95,Golden State Warriors,Houston Rockets
+108,100,San Antonio Spurs,Indiana Pacers
+116,114,Philadelphia 76ers,Los Angeles Lakers
+110,106,Portland Trail Blazers,New Jersey Nets
+131,122,Denver Nuggets,Phoenix Suns
+97,98,Seattle SuperSonics,Utah Jazz
+100,98,Kansas City Kings,Washington Bullets
+108,105,Houston Rockets,Dallas Mavericks
+134,125,Philadelphia 76ers,Denver Nuggets
+127,119,Kansas City Kings,Detroit Pistons
+107,105,Portland Trail Blazers,New York Knicks
+77,105,Golden State Warriors,Atlanta Hawks
+106,102,Milwaukee Bucks,Boston Celtics
+118,104,San Antonio Spurs,Chicago Bulls
+112,101,Detroit Pistons,Indiana Pacers
+102,101,Cleveland Cavaliers,Los Angeles Lakers
+110,95,San Diego Clippers,New Jersey Nets
+98,103,Phoenix Suns,Seattle SuperSonics
+113,109,New York Knicks,Washington Bullets
+112,109,Philadelphia 76ers,Chicago Bulls
+97,101,Boston Celtics,Dallas Mavericks
+124,132,Indiana Pacers,Denver Nuggets
+117,108,Cleveland Cavaliers,Golden State Warriors
+117,119,San Antonio Spurs,Houston Rockets
+101,91,Detroit Pistons,Milwaukee Bucks
+108,101,San Diego Clippers,New York Knicks
+119,108,Phoenix Suns,Portland Trail Blazers
+117,125,Kansas City Kings,Utah Jazz
+124,130,New Jersey Nets,Washington Bullets
+87,96,Milwaukee Bucks,Atlanta Hawks
+120,82,Indiana Pacers,Kansas City Kings
+111,103,Los Angeles Lakers,New Jersey Nets
+125,107,San Diego Clippers,Philadelphia 76ers
+115,102,Utah Jazz,Phoenix Suns
+136,107,Cleveland Cavaliers,Seattle SuperSonics
+122,97,Chicago Bulls,Detroit Pistons
+104,98,Dallas Mavericks,Golden State Warriors
+129,119,Los Angeles Lakers,New York Knicks
+101,110,Boston Celtics,San Antonio Spurs
+124,128,Houston Rockets,Utah Jazz
+90,107,New Jersey Nets,Chicago Bulls
+127,126,Washington Bullets,Denver Nuggets
+98,100,Boston Celtics,Houston Rockets
+89,80,Atlanta Hawks,Philadelphia 76ers
+110,98,Kansas City Kings,Phoenix Suns
+110,111,Cleveland Cavaliers,Portland Trail Blazers
+116,117,Golden State Warriors,San Diego Clippers
+98,97,Dallas Mavericks,Seattle SuperSonics
+112,92,New Jersey Nets,Atlanta Hawks
+111,115,Detroit Pistons,New York Knicks
+171,166,Milwaukee Bucks,San Antonio Spurs
+113,127,Washington Bullets,Utah Jazz
+107,106,New York Knicks,Boston Celtics
+106,108,Indiana Pacers,Dallas Mavericks
+147,127,Cleveland Cavaliers,Denver Nuggets
+102,106,Portland Trail Blazers,Golden State Warriors
+124,122,Chicago Bulls,Kansas City Kings
+119,113,Los Angeles Lakers,Philadelphia 76ers
+92,94,Houston Rockets,Phoenix Suns
+144,106,San Diego Clippers,Seattle SuperSonics
+98,95,Milwaukee Bucks,Atlanta Hawks
+101,111,Boston Celtics,Detroit Pistons
+113,121,Dallas Mavericks,San Antonio Spurs
+120,106,Denver Nuggets,Atlanta Hawks
+109,104,Seattle SuperSonics,Chicago Bulls
+103,91,Milwaukee Bucks,Houston Rockets
+85,92,Golden State Warriors,Indiana Pacers
+105,99,Kansas City Kings,Los Angeles Lakers
+126,112,Utah Jazz,New York Knicks
+138,127,San Antonio Spurs,San Diego Clippers
+95,103,Phoenix Suns,Washington Bullets
+121,100,Indiana Pacers,Boston Celtics
+104,102,Portland Trail Blazers,Dallas Mavericks
+113,124,Denver Nuggets,Detroit Pistons
+98,101,Chicago Bulls,Milwaukee Bucks
+113,105,Phoenix Suns,New Jersey Nets
+134,114,Golden State Warriors,Philadelphia 76ers
+107,91,Utah Jazz,Atlanta Hawks
+95,101,Phoenix Suns,Cleveland Cavaliers
+107,113,Kansas City Kings,San Diego Clippers
+121,117,Golden State Warriors,Detroit Pistons
+115,130,Denver Nuggets,Houston Rockets
+105,111,Chicago Bulls,Los Angeles Lakers
+110,112,Seattle SuperSonics,Milwaukee Bucks
+109,113,Boston Celtics,New Jersey Nets
+108,112,Portland Trail Blazers,San Antonio Spurs
+110,105,Indiana Pacers,Washington Bullets
+110,90,Indiana Pacers,Atlanta Hawks
+121,115,Utah Jazz,Cleveland Cavaliers
+112,107,Portland Trail Blazers,Houston Rockets
+99,109,Washington Bullets,New York Knicks
+118,126,Dallas Mavericks,San Diego Clippers
+105,92,Phoenix Suns,Boston Celtics
+103,109,Detroit Pistons,Cleveland Cavaliers
+127,101,Golden State Warriors,Denver Nuggets
+114,128,Philadelphia 76ers,Kansas City Kings
+138,116,Dallas Mavericks,Los Angeles Lakers
+129,100,Utah Jazz,Milwaukee Bucks
+97,98,Seattle SuperSonics,New Jersey Nets
+119,117,Chicago Bulls,San Antonio Spurs
+92,85,Atlanta Hawks,Washington Bullets
+154,138,Utah Jazz,Denver Nuggets
+114,110,San Diego Clippers,Detroit Pistons
+109,114,Phoenix Suns,Houston Rockets
+109,96,Seattle SuperSonics,Indiana Pacers
+106,91,Philadelphia 76ers,Milwaukee Bucks
+91,114,San Antonio Spurs,New York Knicks
+108,120,Los Angeles Lakers,Portland Trail Blazers
+97,98,Boston Celtics,Washington Bullets
+113,109,Atlanta Hawks,Boston Celtics
+113,107,San Diego Clippers,Cleveland Cavaliers
+92,102,Chicago Bulls,Dallas Mavericks
+116,117,Kansas City Kings,Golden State Warriors
+93,90,San Antonio Spurs,New Jersey Nets
+102,93,Washington Bullets,Philadelphia 76ers
+133,135,Denver Nuggets,Phoenix Suns
+112,120,Los Angeles Lakers,Utah Jazz
+95,94,Houston Rockets,Atlanta Hawks
+119,115,Seattle SuperSonics,Detroit Pistons
+109,95,Golden State Warriors,Portland Trail Blazers
+134,110,San Antonio Spurs,Boston Celtics
+106,112,Los Angeles Lakers,Dallas Mavericks
+130,120,Chicago Bulls,Denver Nuggets
+102,111,Detroit Pistons,Houston Rockets
+103,109,Seattle SuperSonics,Kansas City Kings
+119,97,Cleveland Cavaliers,Milwaukee Bucks
+112,95,Indiana Pacers,Philadelphia 76ers
+129,131,Portland Trail Blazers,Utah Jazz
+108,98,San Diego Clippers,Washington Bullets
+102,115,San Antonio Spurs,Cleveland Cavaliers
+104,101,New Jersey Nets,Indiana Pacers
+98,104,Atlanta Hawks,New York Knicks
+119,111,Detroit Pistons,Atlanta Hawks
+93,98,Chicago Bulls,Cleveland Cavaliers
+113,102,Utah Jazz,Golden State Warriors
+118,97,San Diego Clippers,Kansas City Kings
+107,102,Houston Rockets,Los Angeles Lakers
+102,86,New Jersey Nets,Milwaukee Bucks
+111,123,Boston Celtics,Philadelphia 76ers
+105,115,Seattle SuperSonics,Phoenix Suns
+109,101,Dallas Mavericks,Portland Trail Blazers
+110,109,New York Knicks,Washington Bullets
+107,87,Washington Bullets,Atlanta Hawks
+103,110,Boston Celtics,Chicago Bulls
+95,91,Phoenix Suns,Golden State Warriors
+116,118,Dallas Mavericks,Los Angeles Lakers
+120,97,Cleveland Cavaliers,New York Knicks
+104,109,Milwaukee Bucks,Portland Trail Blazers
+106,98,San Diego Clippers,San Antonio Spurs
+115,117,Houston Rockets,Utah Jazz
+136,115,Cleveland Cavaliers,Boston Celtics
+129,115,San Antonio Spurs,Denver Nuggets
+106,114,Washington Bullets,Indiana Pacers
+110,106,Atlanta Hawks,Kansas City Kings
+106,111,New Jersey Nets,Philadelphia 76ers
+104,96,Dallas Mavericks,Phoenix Suns
+99,97,Milwaukee Bucks,Seattle SuperSonics
+100,98,Philadelphia 76ers,Detroit Pistons
+95,108,Houston Rockets,Portland Trail Blazers
+117,129,Denver Nuggets,San Diego Clippers
+105,107,Golden State Warriors,Utah Jazz
+125,104,Detroit Pistons,Boston Celtics
+131,107,New York Knicks,Chicago Bulls
+111,115,Philadelphia 76ers,Cleveland Cavaliers
+96,87,Kansas City Kings,Dallas Mavericks
+102,89,Portland Trail Blazers,Golden State Warriors
+87,100,Atlanta Hawks,Indiana Pacers
+113,112,Milwaukee Bucks,Phoenix Suns
+110,105,Los Angeles Lakers,San Antonio Spurs
+97,99,Houston Rockets,Seattle SuperSonics
+104,88,New Jersey Nets,Washington Bullets
+85,96,Atlanta Hawks,Dallas Mavericks
+140,134,Phoenix Suns,Denver Nuggets
+121,123,Detroit Pistons,New Jersey Nets
+99,128,Milwaukee Bucks,San Diego Clippers
+110,114,San Antonio Spurs,Utah Jazz
+98,116,Philadelphia 76ers,Boston Celtics
+101,104,Washington Bullets,Cleveland Cavaliers
+92,94,Houston Rockets,Golden State Warriors
+102,101,Chicago Bulls,Indiana Pacers
+111,116,Los Angeles Lakers,Kansas City Kings
+113,106,New York Knicks,New Jersey Nets
+109,101,Portland Trail Blazers,Seattle SuperSonics
+102,113,Phoenix Suns,Utah Jazz
+92,107,Atlanta Hawks,Chicago Bulls
+145,142,Seattle SuperSonics,Denver Nuggets
+99,95,Dallas Mavericks,Houston Rockets
+143,120,San Diego Clippers,Los Angeles Lakers
+116,114,Philadelphia 76ers,Milwaukee Bucks
+108,104,Indiana Pacers,New York Knicks
+109,99,Kansas City Kings,Portland Trail Blazers
+107,113,Golden State Warriors,San Antonio Spurs
+127,98,Detroit Pistons,Washington Bullets
+119,109,Washington Bullets,Boston Celtics
+119,120,Denver Nuggets,Dallas Mavericks
+108,106,Detroit Pistons,Indiana Pacers
+103,87,Cleveland Cavaliers,New Jersey Nets
+99,98,Chicago Bulls,Philadelphia 76ers
+127,106,San Diego Clippers,Phoenix Suns
+109,116,Kansas City Kings,Seattle SuperSonics
+120,121,Dallas Mavericks,Detroit Pistons
+104,101,Golden State Warriors,Houston Rockets
+117,113,Atlanta Hawks,Milwaukee Bucks
+111,110,Cleveland Cavaliers,New York Knicks
+109,105,San Antonio Spurs,Portland Trail Blazers
+100,117,Los Angeles Lakers,San Diego Clippers
+107,110,Boston Celtics,Atlanta Hawks
+105,114,Milwaukee Bucks,Chicago Bulls
+127,121,Portland Trail Blazers,Denver Nuggets
+99,109,Phoenix Suns,Los Angeles Lakers
+98,96,Washington Bullets,New Jersey Nets
+135,115,Cleveland Cavaliers,Philadelphia 76ers
+111,86,San Antonio Spurs,Seattle SuperSonics
+127,118,Kansas City Kings,Utah Jazz
+106,101,Washington Bullets,Atlanta Hawks
+102,107,Golden State Warriors,Dallas Mavericks
+105,102,Indiana Pacers,Detroit Pistons
+124,133,Utah Jazz,San Diego Clippers
+114,112,Chicago Bulls,Boston Celtics
+109,119,New Jersey Nets,Cleveland Cavaliers
+129,111,Portland Trail Blazers,Los Angeles Lakers
+129,115,Indiana Pacers,Milwaukee Bucks
+127,106,New York Knicks,Philadelphia 76ers
+104,95,Kansas City Kings,Phoenix Suns
+93,95,Houston Rockets,San Antonio Spurs
+140,116,Denver Nuggets,Seattle SuperSonics
+106,104,New York Knicks,Atlanta Hawks
+104,117,Philadelphia 76ers,Chicago Bulls
+97,108,Los Angeles Lakers,Houston Rockets
+122,116,Boston Celtics,Milwaukee Bucks
+136,122,Denver Nuggets,Portland Trail Blazers
+96,110,Golden State Warriors,San Diego Clippers
+102,91,Phoenix Suns,Seattle SuperSonics
+129,114,Dallas Mavericks,Utah Jazz
+94,85,Cleveland Cavaliers,Washington Bullets
+105,122,Chicago Bulls,Cleveland Cavaliers
+123,109,Utah Jazz,Dallas Mavericks
+120,115,Atlanta Hawks,Detroit Pistons
+121,129,Denver Nuggets,Golden State Warriors
+85,97,Washington Bullets,Indiana Pacers
+113,116,Philadelphia 76ers,New Jersey Nets
+118,113,Kansas City Kings,San Antonio Spurs
+106,110,Boston Celtics,New York Knicks
+104,106,Portland Trail Blazers,Phoenix Suns
+115,117,Seattle SuperSonics,San Diego Clippers
+103,88,Philadelphia 76ers,Atlanta Hawks
+106,103,New Jersey Nets,Boston Celtics
+98,114,Washington Bullets,Chicago Bulls
+105,100,Phoenix Suns,Dallas Mavericks
+100,118,Milwaukee Bucks,Detroit Pistons
+100,97,Cleveland Cavaliers,Indiana Pacers
+115,99,Utah Jazz,Kansas City Kings
+153,128,Denver Nuggets,Los Angeles Lakers
+124,104,San Diego Clippers,Portland Trail Blazers
+114,117,New York Knicks,Cleveland Cavaliers
+132,119,San Diego Clippers,Golden State Warriors
+105,100,San Antonio Spurs,Houston Rockets
+115,86,Indiana Pacers,New Jersey Nets
+116,99,Seattle SuperSonics,Phoenix Suns
+151,136,Denver Nuggets,Utah Jazz
+115,114,Milwaukee Bucks,Washington Bullets
+108,89,Chicago Bulls,Atlanta Hawks
+109,97,Houston Rockets,Dallas Mavericks
+97,89,New York Knicks,Detroit Pistons
+121,126,San Antonio Spurs,Kansas City Kings
+107,104,Seattle SuperSonics,Los Angeles Lakers
+109,110,Boston Celtics,Philadelphia 76ers
+116,106,Golden State Warriors,Portland Trail Blazers
+112,107,San Diego Clippers,Utah Jazz
+120,115,Boston Celtics,Chicago Bulls
+111,119,Atlanta Hawks,Cleveland Cavaliers
+106,101,Los Angeles Lakers,Golden State Warriors
+99,95,Kansas City Kings,Houston Rockets
+89,93,Philadelphia 76ers,Indiana Pacers
+99,109,Washington Bullets,Milwaukee Bucks
+102,104,New Jersey Nets,New York Knicks
+144,137,Denver Nuggets,San Antonio Spurs
+94,105,Phoenix Suns,San Diego Clippers
+88,86,Portland Trail Blazers,Seattle SuperSonics
+100,91,Milwaukee Bucks,Boston Celtics
+141,122,Houston Rockets,Denver Nuggets
+114,95,Dallas Mavericks,Kansas City Kings
+128,115,Utah Jazz,Los Angeles Lakers
+98,94,Washington Bullets,New Jersey Nets
+116,120,Chicago Bulls,New York Knicks
+119,111,Detroit Pistons,Philadelphia 76ers
+104,92,San Antonio Spurs,Phoenix Suns
+93,104,Golden State Warriors,Seattle SuperSonics
+120,110,Cleveland Cavaliers,Detroit Pistons
+108,102,Atlanta Hawks,Indiana Pacers
+129,123,Portland Trail Blazers,San Diego Clippers
+109,91,Indiana Pacers,Atlanta Hawks
+112,102,Cleveland Cavaliers,Chicago Bulls
+106,118,San Antonio Spurs,Dallas Mavericks
+107,100,Utah Jazz,Houston Rockets
+123,121,Denver Nuggets,Kansas City Kings
+125,109,Golden State Warriors,Los Angeles Lakers
+112,99,New York Knicks,Milwaukee Bucks
+113,96,Boston Celtics,New Jersey Nets
+99,113,Phoenix Suns,Portland Trail Blazers
+96,100,Philadelphia 76ers,Washington Bullets
+130,124,Dallas Mavericks,Denver Nuggets
+132,147,New Jersey Nets,Detroit Pistons
+94,95,Seattle SuperSonics,Golden State Warriors
+119,99,New York Knicks,Boston Celtics
+112,104,Indiana Pacers,Chicago Bulls
+113,116,Detroit Pistons,Cleveland Cavaliers
+106,104,Houston Rockets,Kansas City Kings
+110,86,Milwaukee Bucks,Philadelphia 76ers
+115,120,Los Angeles Lakers,Phoenix Suns
+119,114,Seattle SuperSonics,Portland Trail Blazers
+120,128,Utah Jazz,San Antonio Spurs
+99,96,Atlanta Hawks,Washington Bullets
